@@ -1,0 +1,5 @@
+[project]
+name = "cli-anything-zotero"
+version = "0.1.0"
+description = "CLI server for Zotero 7/8/9 — let AI manage your library. 70+ CLI commands for search, import, PDF, BibTeX, notes, and more. Works with Claude, Cursor, ChatGPT."
+requires-python = ">=3.10"
